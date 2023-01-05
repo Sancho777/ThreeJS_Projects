@@ -9,7 +9,7 @@ Three.js is a cross-browser JavaScript library and application programming inter
 
 ## Project 1
 
-Simple Three.js Scene with a Character that moves around the place and when collides with an object, lose your life points.
+Simple Three.js Scene with a character that moves around the place and if it collides with an object, lose your life points.
 
 ![alt text](https://github.com/Sancho777/ThreeJS_Projects/blob/main/Project-1/character_scene.png?raw=true)
 
